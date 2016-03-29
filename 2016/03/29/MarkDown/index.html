@@ -1,0 +1,457 @@
+
+ <!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>MarkDown学习笔记 | 初心易得，始终难守</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
+    
+    <meta name="author" content="Sjindong">
+    
+    <meta name="description" content="写完发现些好东西，先安利下，给那些没心思看Blog的Markdown快速上手
+            Text using Markdown syntax              Corresponding HTML produced by a Markdown processor        ">
+    
+    
+    
+    
+    <link rel="alternative" href="/atom.xml## RSS address." title="初心易得，始终难守" type="application/atom+xml">
+    
+    
+    <link rel="icon" href="/img/myLogo.ico">
+    
+    
+    <link rel="apple-touch-icon" href="/img/Tinny.jpg">
+    <link rel="apple-touch-icon-precomposed" href="/img/Tinny.jpg">
+    
+
+  
+  
+  <link href="http://cdn.bootcss.com/highlight.js/8.2/styles/railscasts.min.css" rel="stylesheet">
+  <script src="http://cdn.bootcss.com/highlight.js/8.2/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  
+
+    <link rel="stylesheet" href="/css/style.css">
+    <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d182ed77fc48758bf45a33835ee35745";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+      <script type="text/javascript">
+  (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+  (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+  e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+  })(window,document,'script','//s.swiftypecdn.com/install/v1/st.js','_st');
+
+  _st('install','.............Add your swiftype userID...............');
+</script>
+</head>
+
+  <body>
+    <header>
+      <div>
+		
+			<div id="imglogo">
+				<a href="/"><img src="/img/logo.svg" alt="初心易得，始终难守" title="初心易得，始终难守"/></a>
+			</div>
+			
+			<div id="textlogo">
+				<h1 class="site-name"><a href="/" title="初心易得，始终难守">初心易得，始终难守</a></h1>
+				<h2 class="blog-motto"></h2>
+			</div>
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="菜单">
+			</a></div>
+			<nav class="animated">
+				<ul>
+                    <ul>
+					 
+						<li><a href="/">首页</a></li>
+					
+						<li><a href="/archives">归档</a></li>
+					
+					<li>
+					
+					</li>
+                <!--<li><div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div></li>-->
+
+				</ul>
+			</nav>
+</div>
+
+    </header>
+    <div id="container" class="clearfix">
+      <div id="main" class="post" itemscope itemprop="blogPost">
+	<article itemprop="articleBody"> 
+		<header class="article-info clearfix">
+  <h1 itemprop="name">
+    
+      <a href="/2016/03/29/MarkDown/" title="MarkDown学习笔记" itemprop="url">MarkDown学习笔记</a>
+  </h1>
+  <p class="article-time">
+    <time datetime="2016-03-29T13:12:11.495Z" itemprop="datePublished">2016-03-29</time>
+  </p>
+</header>
+	<div class="article-content">
+		
+		
+		<div id="toc" class="toc-article">
+			<strong class="toc-title"></strong>
+		<ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#undefined"><span class="toc-number">1.</span> <span class="toc-text">Heading</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#undefined"><span class="toc-number">1.1.</span> <span class="toc-text">Sub-heading</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#undefined"><span class="toc-number">1.1.1.</span> <span class="toc-text">Another deeper heading</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#1-兼容HTML"><span class="toc-number">1.2.</span> <span class="toc-text">1.兼容HTML</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#1-1"><span class="toc-number">1.2.0.1.</span> <span class="toc-text">1.1.</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#1-2-特殊字符转换"><span class="toc-number">1.2.0.2.</span> <span class="toc-text">1.2. 特殊字符转换</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-区块元素"><span class="toc-number">1.3.</span> <span class="toc-text">2.区块元素</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#2-1-段落和换行"><span class="toc-number">1.3.0.1.</span> <span class="toc-text">2.1. 段落和换行</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#2-2-标题"><span class="toc-number">1.3.0.2.</span> <span class="toc-text">2.2 标题</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#2-3-区块引用-Blockquotes"><span class="toc-number">1.3.0.3.</span> <span class="toc-text">2.3.区块引用 Blockquotes</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#2-4-列表"><span class="toc-number">1.3.0.4.</span> <span class="toc-text">2.4.列表</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#2-4-1"><span class="toc-number">1.3.0.4.0.1.</span> <span class="toc-text">2.4.1</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#2-4-2"><span class="toc-number">1.3.0.4.0.2.</span> <span class="toc-text">2.4.2</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#2-4-3"><span class="toc-number">1.3.0.4.0.3.</span> <span class="toc-text">2.4.3</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#2-5-分隔线"><span class="toc-number">1.3.0.5.</span> <span class="toc-text">2.5. 分隔线</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-区段元素"><span class="toc-number">1.4.</span> <span class="toc-text">3. 区段元素</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#3-1-链接"><span class="toc-number">1.4.0.1.</span> <span class="toc-text">3.1. 链接</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#3-1-1-行内式"><span class="toc-number">1.4.0.1.0.1.</span> <span class="toc-text">3.1.1. 行内式</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#3-1-2-参考式"><span class="toc-number">1.4.0.1.0.2.</span> <span class="toc-text">3.1.2. 参考式</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#3-2-强调"><span class="toc-number">1.4.0.2.</span> <span class="toc-text">3.2. 强调</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#3-3-代码"><span class="toc-number">1.4.0.3.</span> <span class="toc-text">3.3. 代码</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#3-3-1-标记一小段行内代码"><span class="toc-number">1.4.0.3.0.1.</span> <span class="toc-text">3.3.1.标记一小段行内代码</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#3-3-2-代码区段内"><span class="toc-number">1.4.0.3.0.2.</span> <span class="toc-text">3.3.2.代码区段内</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#3-4-图片"><span class="toc-number">1.4.0.4.</span> <span class="toc-text">3.4. 图片</span></a><ol class="toc-child"><li class="toc-item toc-level-6"><a class="toc-link" href="#3-4-1-行内式"><span class="toc-number">1.4.0.4.0.1.</span> <span class="toc-text">3.4.1. 行内式</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#3-4-2-参考式"><span class="toc-number">1.4.0.4.0.2.</span> <span class="toc-text">3.4.2. 参考式</span></a></li></ol></li></ol></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#4-其他"><span class="toc-number">1.5.</span> <span class="toc-text">4. 其他</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#4-1-自动链接"><span class="toc-number">1.5.0.1.</span> <span class="toc-text">4.1. 自动链接</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#4-2-反斜杠"><span class="toc-number">1.5.0.2.</span> <span class="toc-text">4.2. 反斜杠 \</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#个人总结"><span class="toc-number">1.6.</span> <span class="toc-text">个人总结</span></a></li></ol></li></ol>
+		</div>
+		
+		<p>写完发现些好东西，先安利下，给那些没心思看Blog的<br><a href="https://en.wikipedia.org/wiki/Markdown#Example" title="Wiki Markdown#Example" target="_blank" rel="external">Markdown快速上手</a></p>
+<table><br>  <tr><br>    <td><br>      <strong>Text using Markdown syntax</strong><br>    </td><br><br>    <td><br>      <strong>Corresponding HTML produced <br>by a Markdown processor</strong><br>    </td><br><br>    <td><br>      <strong>Text viewed in a browser</strong><br>    </td><br>  </tr><br>  <tr><br>    <td><br><br>        Heading<br>        =======<br>            <br><br>        Sub-heading<br>        ———–<br>         <br><br>        ### Another deeper heading<br>         <br><br>        Paragraphs are separated<br>        by a blank line.<br>        <br><br>        Two spaces at the end of a line leave a &nbsp; &nbsp;<br>        line break.<br>        <br><br>        Text attributes _italic_,<br>        **bold**, `monospace`.<br>        <br><br>        Bullet list:<br>        <br><br>        &emsp;  * apples<br>        &emsp;  * oranges<br>        &emsp;  * pears<br>        <br><br><br>        Numbered list:<br>        <br><br>        &emsp;  1. apples<br>        &emsp;  2. oranges<br>        &emsp;  3. pears<br>        <br><br>        A [link](<a href="http://example.com" target="_blank" rel="external">http://example.com</a>).<br><br>      </td><br><br>    <td><br>    &lt;h1&gt;Heading&lt;/h1&gt;<br>        <br><br>      &lt;h2&gt;Sub-heading&lt;/h2&gt;<br>      <br><br>      &lt;h3&gt;Another deeper heading&lt;/h3&gt;<br>      <br><br>      &lt;p&gt;Paragraphs are separated<br>      by a blank line.&lt;/p&gt;<br>      <br><br>      &lt;p&gt;Two spaces at the end of a line leave a&lt;br /&gt;<br>      line break.&lt;/p&gt;<br>      <br><br>      &lt;p&gt;Text attributes &lt;em&gt;italic&lt;/em&gt;,<br>      &lt;strong&gt;bold&lt;/strong&gt;, &lt;code&gt;monospace&lt;/code&gt;.&lt;/p&gt;<br>      <br><br>      &lt;p&gt;Bullet list:&lt;/p&gt;<br>      <br><br>      &lt;ul&gt;<br>      &lt;li&gt;apples&lt;/li&gt;<br>      &lt;li&gt;oranges&lt;/li&gt;<br>      &lt;li&gt;pears&lt;/li&gt;<br>      &lt;/ul&gt;<br>      <br><br>      &lt;p&gt;Numbered list:&lt;/p&gt;<br>      <br><br>      &lt;ol&gt;<br>      &lt;li&gt;apples&lt;/li&gt;<br>      &lt;li&gt;oranges&lt;/li&gt;<br>      &lt;li&gt;pears&lt;/li&gt;<br>      &lt;/ol&gt;<br>      <br><br>      &lt;p&gt;A &lt;a href=”<a href="http://example.com&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;" target="_blank" rel="external">http://example.com&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;</a><br>    </td><br><br>    <td><br>    <h1>Heading</h1><br><br><h2>Sub-heading</h2><br><br><h3>Another deeper heading</h3><br><br><p>Paragraphs are separated<br>by a blank line.</p><br><br><p>Two spaces at the end of a line leave a<br><br>line break.</p><br><br><p>Text attributes <em>italic</em>,<br><strong>bold</strong>, <code>monospace</code>.</p><br><br><p>Bullet list:</p><br><br><ul><br><li>apples</li><br><li>oranges</li><br><li>pears</li><br></ul><br><br><p>Numbered list:</p><br><br><ol><br><li>apples</li><br><li>oranges</li><br><li>pears</li><br></ol><br><br><p>A <a href="http://example.com" target="_blank" rel="external">link</a>.</p><br>    </td><br>  </tr><br></table>
+
+<hr>
+<h2 id="1-兼容HTML"><a href="#1-兼容HTML" class="headerlink" title="1.兼容HTML"></a>1.兼容HTML</h2><h4 id="1-1"><a href="#1-1" class="headerlink" title="1.1."></a>1.1.</h4><p>&lt;span&gt;、&lt;cite&gt;、&lt;del&gt;<br>  1)使用必须在前后加上空行和其他内容隔开<br>  2)开始和结束标签不能缩进<br>  3）markdown 不会在 HTML 区块标签外加上不必要的 &lt;p&gt;标签  </p>
+<p>例子：  （表格）  </p>
+<table><br>  <tr><br>    <td>Table</td><br>    <td>  td   </td><br>  </tr><br></table>
+
+<p><strong>注意</strong>：在HTMKL区块标签间，MarkDown格式语法不会被处理  </p>
+<h4 id="1-2-特殊字符转换"><a href="#1-2-特殊字符转换" class="headerlink" title="1.2. 特殊字符转换"></a>1.2. 特殊字符转换</h4><p>  1）&lt; 和 &amp; 符号 必须使用 &amp;lt; 和&amp;amp;来代替；<br>  Tips：如果是直接显示网址，也要进行转换（<code>href</code> 中也要进行转换）<br>  2）版权符号 &copy; :可以 &amp;copy;  </p>
+<h2 id="2-区块元素"><a href="#2-区块元素" class="headerlink" title="2.区块元素"></a>2.区块元素</h2><h4 id="2-1-段落和换行"><a href="#2-1-段落和换行" class="headerlink" title="2.1. 段落和换行"></a>2.1. 段落和换行</h4><blockquote>
+<p>一个 Markdown 段落是由一个或多个连续的文本行组成，它的前后要有一个以上的空行（空行的定义是显示上看起来像是空的，便会被视为空行。比方说，若某一行只包含空格和制表符，则该行也会被视为空行）。普通段落不该用空格或制表符来缩进。</p>
+<p>「由一个或多个连续的文本行组成」这句话其实暗示了 Markdown 允许段落内的强迫换行（插入换行符），这个特性和其他大部分的 text-to-HTML 格式不一样（包括 Movable Type 的「Convert Line Breaks」选项），其它的格式会把每个换行符都转成 &lt;br /&gt; 标签。  </p>
+</blockquote>
+<p>这边不太理解什么意思， 但知道MarkDown中换行是 通过 “空格+空格+回车” 来实现，相当于<code>&lt;br /&gt;</code>的效果。  </p>
+<p><strong>注意：</strong>我使用Atom编辑器，它会保存的时候默认自动删除每行最后面的空格。<br>    <em>具体设置：</em> 文件 – 设置 – 扩展 –  “WhiteSpace”的 设置 – 把 “remove trailing whitesace” 选项去掉。</p>
+<p><br></p>
+<h4 id="2-2-标题"><a href="#2-2-标题" class="headerlink" title="2.2 标题"></a>2.2 标题</h4><p>有两种方式显标题  </p>
+<table><br>  <tr><br>    <td>类Setext</td><br>    <td>类atx</td><br>  </tr><br>  <tr><br>    <td><br>      <code><br>        这个最高阶标题 <br><br>        ====== <br><br>        <br><br>        第二阶标题<br><br>        —–<br><br>      </code><br>    </td><br>    <td><br>      <code>#这是1阶标题#<br><br>            ##这是2阶标题#<br><br>            ###这是3阶标题#<br><br>            ####这是4阶标题#<br><br>            #####这是5阶标题#<br><br>            ######这是6阶标题#<br><br>      </code><br>    </td><br>  </tr><br></table>
+
+<h4 id="2-3-区块引用-Blockquotes"><a href="#2-3-区块引用-Blockquotes" class="headerlink" title="2.3.区块引用 Blockquotes"></a>2.3.区块引用 Blockquotes</h4><p>每行文字前使用<code>&gt;</code> 即可形成引用效果。  </p>
+<pre><code>
+&gt;这是引用
+&gt;这是引用
+&gt;这是引用
+&gt;这是引用
+</code>
+</pre>
+
+<p>引用中也可以使用MarkDown语法。  </p>
+<p>引用中可以 继续引用；即增加引用阶层。  </p>
+<h4 id="2-4-列表"><a href="#2-4-列表" class="headerlink" title="2.4.列表"></a>2.4.列表</h4><h6 id="2-4-1"><a href="#2-4-1" class="headerlink" title="2.4.1"></a>2.4.1</h6><table><br>  <tr><br>    <td colspan="3">无序列表</td><br>    <td>有序列表</td><br>  </tr><br>  <tr><br>    <div><br>      <td><br>           +  red<br>           +  green<br>           +  blue<br>      </td><br>      <td><br>         *   red<br>         *   green<br>         *   blue<br>      </td><br>      <td><br>           -  red<br>           -  green<br>           -  blue<br>      </td><br><br>    </div><br>    <td><br>      1.  red<br>      2.  green<br>      3.  blue<br>    </td><br>  </tr><br></table>
+
+<p><strong>注意：</strong>1）这里 <code>**</code>所描述的无序列表，和斜体格式 混淆了，等之后我在看看怎么解决。  </p>
+<p>2）有序列表中数字标示不会影响生成的HTML的标记 <code>&lt;li&gt;</code>  。  </p>
+<p>Ps: 使用*的时候 需要在*的前面加上\</p>
+<h6 id="2-4-2"><a href="#2-4-2" class="headerlink" title="2.4.2"></a>2.4.2</h6><p>列表项目用空行分开，转换后项目内容会被&lt;p&gt;标签包起来，如：  </p>
+<pre><code>*   red  
+*   green  
+</code></pre><p>转换后是：  </p>
+<pre><code>&lt;ul&gt;  
+&lt;li&gt;red&lt;/li&gt;  
+&lt;li&gt;green&lt;/li&gt;  
+&lt;/ul&gt; 
+</code></pre><p>而如果列表项之间有了空行：  </p>
+<pre><code>*   red  
+
+*  green  
+</code></pre><p>转换后是：  </p>
+<pre><code>&lt;ul&gt;  
+&lt;li&gt;&lt;p&gt;red&lt;/p&gt;&lt;/li&gt;  
+&lt;li&gt;&lt;p&gt;green&lt;/p&gt; &lt;/li&gt;  
+&lt;/ul&gt; 
+</code></pre><h6 id="2-4-3"><a href="#2-4-3" class="headerlink" title="2.4.3"></a>2.4.3</h6><p>在MarkDown中建立代码区块，可以通过缩进4个空格或者1个制表符就可以，如：  </p>
+<pre><code>这是普通段落    
+
+&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;这是代码区块
+</code></pre><p>PS：段落之间需要一个空行</p>
+<p>会被转换成：  </p>
+<pre><code>&lt;p&gt;Here is an example of AppleScript:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tell application &quot;Foo&quot;
+beep
+end tell
+&lt;/code&gt;&lt;/pre&gt;
+</code></pre><p>代码区块会持续到没有缩进的那一行；且Markdown会自动将其中的 &lt;、&amp;、\ 之类转换为html样式。  </p>
+<h4 id="2-5-分隔线"><a href="#2-5-分隔线" class="headerlink" title="2.5. 分隔线"></a>2.5. 分隔线</h4><p>你可以使用 *、-、_和空格（三个及以上）  来建立分隔线，行内不允许有其他内容：</p>
+<pre><code>---
+***
+___
+- - -
+* * *
+_ _ _
+</code></pre><h2 id="3-区段元素"><a href="#3-区段元素" class="headerlink" title="3. 区段元素"></a>3. 区段元素</h2><h4 id="3-1-链接"><a href="#3-1-链接" class="headerlink" title="3.1. 链接"></a>3.1. 链接</h4><p>Markdown支持两种链接模式：行内式，参考式<br>链接均是使用[]来标记</p>
+<h6 id="3-1-1-行内式"><a href="#3-1-1-行内式" class="headerlink" title="3.1.1. 行内式"></a>3.1.1. 行内式</h6><p>直接在要添加连接的文字后面增加就可以</p>
+<p>这是个连接<a href="http://www.baidu.com/" title="这个显示文字" target="_blank" rel="external">百度</a>（这不是软广）  </p>
+<pre><code>这是个连接[百度](http://www.baidu.com/ &quot;这个显示文字&quot;)（这不是软广）  
+</code></pre><p>也可以使用相对路径，访问同一主机的资源，如：  </p>
+<pre><code>查看 [主机文件](/路径/文件) 就这样子
+</code></pre><h6 id="3-1-2-参考式"><a href="#3-1-2-参考式" class="headerlink" title="3.1.2. 参考式"></a>3.1.2. 参考式</h6><p>要添加连接的文字后面加上 <a href="http://sjindong.github.io/" title="任意位置">id</a> 标签，然后可以在文中任意一处对 <a href="http://sjindong.github.io/" title="任意位置">id</a>定义。</p>
+<p>这又是一个链接 <a href="http://sjindong.github.io/" title="任意位置">我的博客</a>.  </p>
+<pre><code>这又是一个链接 [我的博客][id].
+[id]: http://sjindong.github.io/ &quot;任意位置&quot;  
+</code></pre><p>1）链接内容定义的形式为：  </p>
+<ul>
+<li>方括号（前面可以选择性地加上至多三个空格来缩进），里面输入链接文字</li>
+<li>接着一个冒号</li>
+<li>接着一个以上的空格或制表符</li>
+<li>接着链接的网址</li>
+<li>选择性地接着 title 内容，可以用单引号、双引号或是括弧包着(单引号使用可能略有问题)<br>title 属性可以放到链接的下一行显示，方便网址过长时的阅读  </li>
+</ul>
+<p>2）链接标签 识别：数字、字母（不区分大小写）、空白、标点符号</p>
+<p>3）隐式链接（[]）可以省略指定链接标签<br><a href="http://sjindong.github.io/" title="隐式链接">博客- 隐式链接</a>  </p>
+<pre><code>[博客- 隐式链接][]  
+[博客- 隐式链接]: http://sjindong.github.io/ &quot;隐式链接&quot;  
+</code></pre><h4 id="3-2-强调"><a href="#3-2-强调" class="headerlink" title="3.2. 强调"></a>3.2. 强调</h4><p>Markdown使用 * 和 _作为标记强调的符号，使用单个*和_ 包围的字词会被转成&lt;em&gt; 标签； 使用两个*和_ 包围的字词会被转成&lt;strong&gt;标签，如：<br><em>em</em>    <strong>em</strong><br> <em>em</em>   <strong>em</strong><br> <strong><em> sdkfj </em></strong></p>
+<pre><code> *em*    **em**  
+_em_   __em__  
+**_ sdkfj _**  
+</code></pre><p>1)强调可以直接插在文字中间；<br>2）如果  *  和 _ 两边都有空白，会被当成普通符号（仅限一行内只有一个的情况）；<br>3）如果要直接插在文字中，和其他混合使用，请使用 反斜杠’\‘  </p>
+<h4 id="3-3-代码"><a href="#3-3-代码" class="headerlink" title="3.3. 代码"></a>3.3. 代码</h4><h6 id="3-3-1-标记一小段行内代码"><a href="#3-3-1-标记一小段行内代码" class="headerlink" title="3.3.1.标记一小段行内代码"></a>3.3.1.标记一小段行内代码</h6><p>可以使用反引号包围起来，如：<br>使用<code>activity</code>  </p>
+<pre><code>使用`activity`
+</code></pre><p>如果要在代码段内使用反引号`，则可以通过多个反引号控制代码的范围，如：<br>使用<code>`activity`function</code>  </p>
+<pre><code>使用``` `activity`function```  
+</code></pre><h6 id="3-3-2-代码区段内"><a href="#3-3-2-代码区段内" class="headerlink" title="3.3.2.代码区段内"></a>3.3.2.代码区段内</h6><p>&amp; 和 方括号[]都会被自动地转成 HTML 实体，这使得插入 HTML 原始码变得很容易，如：</p>
+<pre><code>&amp;lt; &amp;amp; []&lt;em&gt;seikg&lt;/em&gt;] []
+</code></pre><p>&lt; &amp; <em>seikg</em> []   </p>
+<h4 id="3-4-图片"><a href="#3-4-图片" class="headerlink" title="3.4. 图片"></a>3.4. 图片</h4><p>图片的插和 链接的使用 是类似的</p>
+<h6 id="3-4-1-行内式"><a href="#3-4-1-行内式" class="headerlink" title="3.4.1. 行内式"></a>3.4.1. 行内式</h6><p><img src="/img/myLogo.jpg" alt="图片的替代文字" title="图片说明"><br><img src="/com/a.jpg" alt="图片的替代文字" title="文字说明"></p>
+<pre><code>![图片的替代文字](/com/a.jpg &quot;文字说明&quot;)
+</code></pre><p>详细叙述如下：</p>
+<ul>
+<li>一个惊叹号 !</li>
+<li>接着一个方括号，里面放上图片的替代文字</li>
+<li>接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上 选择性的 ‘title’ 文字。  </li>
+</ul>
+<h6 id="3-4-2-参考式"><a href="#3-4-2-参考式" class="headerlink" title="3.4.2. 参考式"></a>3.4.2. 参考式</h6><pre><code>![图片的替代文字][id]
+[id]: 链接/地址 &quot;说明文字&quot;  
+</code></pre><p> <strong>PS:</strong> Markdown暂时还不能指定图片宽高，只能通过<code>&lt;img&gt;</code>标签自己定义</p>
+<h2 id="4-其他"><a href="#4-其他" class="headerlink" title="4. 其他"></a>4. 其他</h2><h4 id="4-1-自动链接"><a href="#4-1-自动链接" class="headerlink" title="4.1. 自动链接"></a>4.1. 自动链接</h4><p>1）支持以比较简短的自动链接形式来处理网址和电子邮件信箱，只要是用方括号包起来， Markdown 就会自动把它转成链接;</p>
+<p>2）邮址的自动链接也很类似，只是 Markdown 会先做一个编码转换的过程，把文字字符转成 16 进位码的 HTML 实体，这样的格式可以糊弄一些简单的不好的邮址收集机器人</p>
+<h4 id="4-2-反斜杠"><a href="#4-2-反斜杠" class="headerlink" title="4.2. 反斜杠 \"></a>4.2. 反斜杠 \</h4><p>Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：</p>
+<pre><code>\   反斜线
+`   反引号
+*   星号
+_   底线
+{}  花括号
+[]  方括号
+()  括弧
+#   井字号
++   加号
+-   减号
+.   英文句点
+!   惊叹号
+</code></pre><h2 id="个人总结"><a href="#个人总结" class="headerlink" title="个人总结"></a>个人总结</h2><p>  先上干货，嗯，工具始终是为了便捷，内容才是重点，<br>  关于这个文章，网上有很多可参照的，但自己写一遍才映像深刻，<br>  我这边是断断续续的在学在写，所以文章源码有些地方还是可以优化改进的，</p>
+<p>  <strong>吐槽</strong><br>  唉，终于搞定了，说多不多，说少不少，看完了，以后估计用的也就那么常用的几样； 这个其实对大多数人来说，没有太大帮助的，还不如使用其他工具进行文字编辑。  </p>
+<p>  那我干嘛学这个呢，想了想，一个字，懒；两个字，很懒… 嗯，我懒得碰鼠标，这是 使用这个方法写blog给我带来的最大的帮助，^_^2333.  </p>
+  
+	</div>
+		<footer class="article-footer clearfix">
+
+
+
+
+<div class="article-share" id="share">
+
+  <div data-url="http://sjindong.github.io/2016/03/29/MarkDown/" data-title="MarkDown学习笔记 | 初心易得，始终难守" data-tsina="null" class="share clearfix">
+  </div>
+
+</div>
+</footer>   	       
+	</article>
+	
+<nav class="article-nav clearfix">
+ 
+
+<div class="next">
+<a href="/2016/03/28/hello-world/"  title="Hello World">
+ <strong>旧一篇:</strong><br/> 
+ <span>Hello World
+</span>
+</a>
+</div>
+
+</nav>
+
+	
+
+</div>  
+    </div>
+    <footer><div id="footer" >
+	<div class="copyright">
+		<span>Powered by <a href="https://github.com/hexojs/hexo">Hexo</a> and theme by 
+		<a href="https://github.com/levonlin/Tinnypp">Tinnypp</a>.</span>
+		
+			<span>© Sjindong</span>
+		
+	<div>
+</div></footer>
+    <script src="/js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  //back to top
+  function backToTop(){
+    var buttonHTML = $("<a href=\"#top\" id=\"back-top\">" + "<span>Back to Top</span></a>");
+    buttonHTML.appendTo($("body"));
+    var buttonToTop = $("#back-top");
+    // hide #back-top first
+    buttonToTop.hide();
+
+    // fade in #back-top
+    $(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                buttonToTop.fadeIn();
+            } else {
+                buttonToTop.fadeOut();
+            }
+        });
+        // scroll body to 0px on click
+        buttonToTop.click(function() {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+    });
+  }
+  backToTop();
+
+  $('.navbar').click(function(){
+    $('header nav').toggleClass('shownav');
+  });
+  var myWidth = 0;
+  function getSize(){
+    if( typeof( window.innerWidth ) == 'number' ) {
+      myWidth = window.innerWidth;
+    } else if( document.documentElement && document.documentElement.clientWidth) {
+      myWidth = document.documentElement.clientWidth;
+    };
+  };
+  var m = $('#main'),
+      a = $('#asidepart'),
+      c = $('.closeaside'),
+      ta = $('#toc.toc-aside');
+  $(window).resize(function(){
+    getSize(); 
+    if (myWidth >= 1024) {
+      $('header nav').removeClass('shownav');
+    }else
+    {
+      m.removeClass('moveMain');
+      a.css('display', 'block').removeClass('fadeOut');
+        
+    }
+  });
+
+  var show = true;
+  c.click(function(){
+    if(show == true){
+        a.addClass('fadeOut').css('display', 'none');
+        ta.css('display', 'block').addClass('fadeIn');
+        m.addClass('moveMain');  
+    }else{
+        a.css('display', 'block').removeClass('fadeOut').addClass('fadeIn');     
+        ta.css('display', 'none'); 
+        m.removeClass('moveMain');
+        $('#toc.toc-aside').css('display', 'none');
+    }
+    show = !show;
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,240-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){ 
+  var $this = $('.share'),
+      url = $this.attr('data-url'),
+      encodedUrl = encodeURIComponent(url),
+      title = $this.attr('data-title'),
+      tsina = $this.attr('data-tsina');
+  var html = [
+  '<a href="#" class="overlay" id="qrcode"></a>',
+  '<div class="qrcode clearfix"><span>扫描二维码分享到微信朋友圈</span><a class="qrclose" href="#share"></a><strong>Loading...Please wait</strong><img id="qrcode-pic" data-src="http://s.jiathis.com/qrcode.php?url=' + encodedUrl + '"/></div>',
+  '<a href="#textlogo" class="article-back-to-top" title="Top"></a>',
+  '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+  '<a href="#qrcode" class="article-share-qrcode" title="QRcode"></a>',
+  '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+  '<a href="http://service.weibo.com/share/share.php?title='+title+'&url='+encodedUrl +'&ralateUid='+ tsina +'&searchPic=true&style=number' +'" class="article-share-weibo" target="_blank" title="Weibo"></a>',
+  '<span title="Share to"></span>'
+  ].join('');
+  $this.append(html);
+  $('.article-share-qrcode').click(function(){
+    var imgSrc = $('#qrcode-pic').attr('data-src');
+    $('#qrcode-pic').attr('src', imgSrc);
+    $('#qrcode-pic').load(function(){
+        $('.qrcode strong').text(' ');
+    });
+  });
+});     
+</script>
+
+
+
+
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+}); 
+</script>
+
+<script type="text/javascript">
+  function footerPosition() {
+    var contentHeight = document.documentElement.scrollHeight,
+        winHeight = window.innerHeight;
+    if(contentHeight <= winHeight) {
+      $('footer').addClass('fixed-bottom');
+    } else {
+      $('footer').removeClass('fixed-bottom');
+    }
+  }
+  footerPosition();
+  $(window).resize(footerPosition);
+</script>
+
+
+  </body>
+</html>
