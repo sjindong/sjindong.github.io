@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>初心易得，始终难守</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://sjindong.github.io/"/>
+  <updated>2016-03-30T14:12:16.379Z</updated>
+  <id>http://sjindong.github.io/</id>
+  
+  <author>
+    <name>Sjindong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人网址收藏</title>
+    <link href="http://sjindong.github.io/2016/03/30/private_collection/"/>
+    <id>http://sjindong.github.io/2016/03/30/private_collection/</id>
+    <published>2016-03-30T14:12:29.526Z</published>
+    <updated>2016-03-30T14:12:16.379Z</updated>
+    
+    <content type="html">&lt;h3 id=&quot;实用工具&quot;&gt;&lt;a href=&quot;#实用工具&quot; class=&quot;headerlink&quot; title=&quot;实用工具&quot;&gt;&lt;/a&gt;实用工具&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://tool.lu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线工具—有时间戳转换工具&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;功能网址&quot;&gt;&lt;a href=&quot;#功能网址&quot; class=&quot;headerlink&quot; title=&quot;功能网址&quot;&gt;&lt;/a&gt;功能网址&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/739bf1305e66&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;使用Hexo搭建博客（四），博客的部件和插件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/justflyhigh/article/details/7611648&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RSS订阅 让你的博客集成RSS功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/fly_binbin/archive/2010/12/10/1902265.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android权限列表permission说明 （一）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://felixqu.com/2014/11/22/google-play-errors-explained-with-fixes/?replytocom=19678&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google Play 错误解释以及解决方案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/wuyinlei/article/details/50771822&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;简单实现安卓app自动更新功能&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://forum.ubuntu.org.cn/viewtopic.php?f=120&amp;amp;t=257333&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;细说linux挂载——mount，及其他……&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/465830080ea9&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HEXO+Github,搭建属于自己的博客&lt;/a&gt;      &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://yangruihan.com/2015/03/22/Windows%E4%B8%8B%E4%B8%80%E6%AD%A5%E6%AD%A5%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E2%80%94%E2%80%94%E4%BD%BF%E7%94%A8%20GitHub%20Pages%20n.%20Hexo%20%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Windows下一步步搭建自己的独立博客——使用 GitHub Pages + Hexo 基础教程（一)&lt;/a&gt;     &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.maintao.com/2014/hexo-beginner&amp;#39;s-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;HEXO入门指南&lt;/a&gt;    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.maintao.com/2014/hexo-theme-from-scratch/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;从零开始定制hexo主题&lt;/a&gt;    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wowubuntu.com/markdown/index.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown 语法说明 (简体中文版) （完整版）&lt;/a&gt;    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github中 MarkDown的介绍&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;原理讲解&quot;&gt;&lt;a href=&quot;#原理讲解&quot; class=&quot;headerlink&quot; title=&quot;原理讲解&quot;&gt;&lt;/a&gt;原理讲解&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://brainku.github.io/2014/10/01/reading-android-kaifa-jingyao/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;小探Android应用层原理–《Android开发精要》&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jb51.net/article/51052.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;六款值得推荐的android（安卓）开源框架简介&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/xiazdong/article/details/7749261&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android入门：多个Activity之间切换原理介绍&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/coding_glacier/article/details/8230159&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android中UID机制和共享进程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.open-open.com/lib/view/open1328069889514.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Git详解之三 Git分支&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/alangdangjia/article/details/9054921&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android ViewPager使用详解&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;编辑工具&quot;&gt;&lt;a href=&quot;#编辑工具&quot; class=&quot;headerlink&quot; title=&quot;编辑工具&quot;&gt;&lt;/a&gt;编辑工具&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.williamlong.info/archives/4319.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;好用的Markdown编辑器一览&lt;/a&gt;   &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/project/atom/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ATOM使用教程–极客网&lt;/a&gt;    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;资源&quot;&gt;&lt;a href=&quot;#资源&quot; class=&quot;headerlink&quot; title=&quot;资源&quot;&gt;&lt;/a&gt;资源&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nswbmw/N-blog/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;学习资源Node.js&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://bbs.eeworld.com.cn/forum-131-1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;电子工程世界论坛 （主要看个嵌入式系统）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/xzknet/article/details/38989471&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;【合集】用Raspberry Pi（树莓派）打造各种服务器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.eeboard.com/bbs/thread-32953-1-1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;树莓派 使用Android机当显示器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.nowcoder.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;牛客网–自称是专业IT笔试网&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tongji.cnzz.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CNZZ数据专家—统计网站流量&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.android-studio.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android Studio中文社区&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;实用工具&quot;&gt;&lt;a href=&quot;#实用工具&quot; class=&quot;headerlink&quot; title=&quot;实用工具&quot;&gt;&lt;/a&gt;实用工具&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://tool.lu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MarkDown学习笔记</title>
+    <link href="http://sjindong.github.io/2016/03/29/MarkDown/"/>
+    <id>http://sjindong.github.io/2016/03/29/MarkDown/</id>
+    <published>2016-03-29T13:12:11.495Z</published>
+    <updated>2016-03-29T13:12:11.443Z</updated>
+    
+    <content type="html">&lt;p&gt;写完发现些好东西，先安利下，给那些没心思看Blog的&lt;br&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; title=&quot;Wiki Markdown#Example&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown快速上手&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;&lt;br&gt;  &lt;tr&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;      &lt;strong&gt;Text using Markdown syntax&lt;/strong&gt;&lt;br&gt;    &lt;/td&gt;&lt;br&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;      &lt;strong&gt;Corresponding HTML produced &lt;br&gt;by a Markdown processor&lt;/strong&gt;&lt;br&gt;    &lt;/td&gt;&lt;br&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;      &lt;strong&gt;Text viewed in a browser&lt;/strong&gt;&lt;br&gt;    &lt;/td&gt;&lt;br&gt;  &lt;/tr&gt;&lt;br&gt;  &lt;tr&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;&lt;br&gt;        Heading&lt;br&gt;        =======&lt;br&gt;            &lt;br&gt;&lt;br&gt;        Sub-heading&lt;br&gt;        ———–&lt;br&gt;         &lt;br&gt;&lt;br&gt;        ### Another deeper heading&lt;br&gt;         &lt;br&gt;&lt;br&gt;        Paragraphs are separated&lt;br&gt;        by a blank line.&lt;br&gt;        &lt;br&gt;&lt;br&gt;        Two spaces at the end of a line leave a &amp;nbsp; &amp;nbsp;&lt;br&gt;        line break.&lt;br&gt;        &lt;br&gt;&lt;br&gt;        Text attributes _italic_,&lt;br&gt;        **bold**, `monospace`.&lt;br&gt;        &lt;br&gt;&lt;br&gt;        Bullet list:&lt;br&gt;        &lt;br&gt;&lt;br&gt;        &amp;emsp;  * apples&lt;br&gt;        &amp;emsp;  * oranges&lt;br&gt;        &amp;emsp;  * pears&lt;br&gt;        &lt;br&gt;&lt;br&gt;&lt;br&gt;        Numbered list:&lt;br&gt;        &lt;br&gt;&lt;br&gt;        &amp;emsp;  1. apples&lt;br&gt;        &amp;emsp;  2. oranges&lt;br&gt;        &amp;emsp;  3. pears&lt;br&gt;        &lt;br&gt;&lt;br&gt;        A [link](&lt;a href=&quot;http://example.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://example.com&lt;/a&gt;).&lt;br&gt;&lt;br&gt;      &lt;/td&gt;&lt;br&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;    &amp;lt;h1&amp;gt;Heading&amp;lt;/h1&amp;gt;&lt;br&gt;        &lt;br&gt;&lt;br&gt;      &amp;lt;h2&amp;gt;Sub-heading&amp;lt;/h2&amp;gt;&lt;br&gt;      &lt;br&gt;&lt;br&gt;      &amp;lt;h3&amp;gt;Another deeper heading&amp;lt;/h3&amp;gt;&lt;br&gt;      &lt;br&gt;&lt;br&gt;      &amp;lt;p&amp;gt;Paragraphs are separated&lt;br&gt;      by a blank line.&amp;lt;/p&amp;gt;&lt;br&gt;      &lt;br&gt;&lt;br&gt;      &amp;lt;p&amp;gt;Two spaces at the end of a line leave a&amp;lt;br /&amp;gt;&lt;br&gt;      line break.&amp;lt;/p&amp;gt;&lt;br&gt;      &lt;br&gt;&lt;br&gt;      &amp;lt;p&amp;gt;Text attributes &amp;lt;em&amp;gt;italic&amp;lt;/em&amp;gt;,&lt;br&gt;      &amp;lt;strong&amp;gt;bold&amp;lt;/strong&amp;gt;, &amp;lt;code&amp;gt;monospace&amp;lt;/code&amp;gt;.&amp;lt;/p&amp;gt;&lt;br&gt;      &lt;br&gt;&lt;br&gt;      &amp;lt;p&amp;gt;Bullet list:&amp;lt;/p&amp;gt;&lt;br&gt;      &lt;br&gt;&lt;br&gt;      &amp;lt;ul&amp;gt;&lt;br&gt;      &amp;lt;li&amp;gt;apples&amp;lt;/li&amp;gt;&lt;br&gt;      &amp;lt;li&amp;gt;oranges&amp;lt;/li&amp;gt;&lt;br&gt;      &amp;lt;li&amp;gt;pears&amp;lt;/li&amp;gt;&lt;br&gt;      &amp;lt;/ul&amp;gt;&lt;br&gt;      &lt;br&gt;&lt;br&gt;      &amp;lt;p&amp;gt;Numbered list:&amp;lt;/p&amp;gt;&lt;br&gt;      &lt;br&gt;&lt;br&gt;      &amp;lt;ol&amp;gt;&lt;br&gt;      &amp;lt;li&amp;gt;apples&amp;lt;/li&amp;gt;&lt;br&gt;      &amp;lt;li&amp;gt;oranges&amp;lt;/li&amp;gt;&lt;br&gt;      &amp;lt;li&amp;gt;pears&amp;lt;/li&amp;gt;&lt;br&gt;      &amp;lt;/ol&amp;gt;&lt;br&gt;      &lt;br&gt;&lt;br&gt;      &amp;lt;p&amp;gt;A &amp;lt;a href=”&lt;a href=&quot;http://example.com&amp;quot;&amp;gt;link&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://example.com&amp;quot;&amp;gt;link&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&lt;/a&gt;&lt;br&gt;    &lt;/td&gt;&lt;br&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;    &lt;h1&gt;Heading&lt;/h1&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;Sub-heading&lt;/h2&gt;&lt;br&gt;&lt;br&gt;&lt;h3&gt;Another deeper heading&lt;/h3&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Paragraphs are separated&lt;br&gt;by a blank line.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Two spaces at the end of a line leave a&lt;br&gt;&lt;br&gt;line break.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Text attributes &lt;em&gt;italic&lt;/em&gt;,&lt;br&gt;&lt;strong&gt;bold&lt;/strong&gt;, &lt;code&gt;monospace&lt;/code&gt;.&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Bullet list:&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;apples&lt;/li&gt;&lt;br&gt;&lt;li&gt;oranges&lt;/li&gt;&lt;br&gt;&lt;li&gt;pears&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Numbered list:&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;br&gt;&lt;li&gt;apples&lt;/li&gt;&lt;br&gt;&lt;li&gt;oranges&lt;/li&gt;&lt;br&gt;&lt;li&gt;pears&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;A &lt;a href=&quot;http://example.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;&lt;br&gt;    &lt;/td&gt;&lt;br&gt;  &lt;/tr&gt;&lt;br&gt;&lt;/table&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&quot;1-兼容HTML&quot;&gt;&lt;a href=&quot;#1-兼容HTML&quot; class=&quot;headerlink&quot; title=&quot;1.兼容HTML&quot;&gt;&lt;/a&gt;1.兼容HTML&lt;/h2&gt;&lt;h4 id=&quot;1-1&quot;&gt;&lt;a href=&quot;#1-1&quot; class=&quot;headerlink&quot; title=&quot;1.1.&quot;&gt;&lt;/a&gt;1.1.&lt;/h4&gt;&lt;p&gt;&amp;lt;span&amp;gt;、&amp;lt;cite&amp;gt;、&amp;lt;del&amp;gt;&lt;br&gt;  1)使用必须在前后加上空行和其他内容隔开&lt;br&gt;  2)开始和结束标签不能缩进&lt;br&gt;  3）markdown 不会在 HTML 区块标签外加上不必要的 &amp;lt;p&amp;gt;标签  &lt;/p&gt;
+&lt;p&gt;例子：  （表格）  &lt;/p&gt;
+&lt;table&gt;&lt;br&gt;  &lt;tr&gt;&lt;br&gt;    &lt;td&gt;Table&lt;/td&gt;&lt;br&gt;    &lt;td&gt;  td   &lt;/td&gt;&lt;br&gt;  &lt;/tr&gt;&lt;br&gt;&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：在HTMKL区块标签间，MarkDown格式语法不会被处理  &lt;/p&gt;
+&lt;h4 id=&quot;1-2-特殊字符转换&quot;&gt;&lt;a href=&quot;#1-2-特殊字符转换&quot; class=&quot;headerlink&quot; title=&quot;1.2. 特殊字符转换&quot;&gt;&lt;/a&gt;1.2. 特殊字符转换&lt;/h4&gt;&lt;p&gt;  1）&amp;lt; 和 &amp;amp; 符号 必须使用 &amp;amp;lt; 和&amp;amp;amp;来代替；&lt;br&gt;  Tips：如果是直接显示网址，也要进行转换（&lt;code&gt;href&lt;/code&gt; 中也要进行转换）&lt;br&gt;  2）版权符号 &amp;copy; :可以 &amp;amp;copy;  &lt;/p&gt;
+&lt;h2 id=&quot;2-区块元素&quot;&gt;&lt;a href=&quot;#2-区块元素&quot; class=&quot;headerlink&quot; title=&quot;2.区块元素&quot;&gt;&lt;/a&gt;2.区块元素&lt;/h2&gt;&lt;h4 id=&quot;2-1-段落和换行&quot;&gt;&lt;a href=&quot;#2-1-段落和换行&quot; class=&quot;headerlink&quot; title=&quot;2.1. 段落和换行&quot;&gt;&lt;/a&gt;2.1. 段落和换行&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;一个 Markdown 段落是由一个或多个连续的文本行组成，它的前后要有一个以上的空行（空行的定义是显示上看起来像是空的，便会被视为空行。比方说，若某一行只包含空格和制表符，则该行也会被视为空行）。普通段落不该用空格或制表符来缩进。&lt;/p&gt;
+&lt;p&gt;「由一个或多个连续的文本行组成」这句话其实暗示了 Markdown 允许段落内的强迫换行（插入换行符），这个特性和其他大部分的 text-to-HTML 格式不一样（包括 Movable Type 的「Convert Line Breaks」选项），其它的格式会把每个换行符都转成 &amp;lt;br /&amp;gt; 标签。  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这边不太理解什么意思， 但知道MarkDown中换行是 通过 “空格+空格+回车” 来实现，相当于&lt;code&gt;&amp;lt;br /&amp;gt;&lt;/code&gt;的效果。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;我使用Atom编辑器，它会保存的时候默认自动删除每行最后面的空格。&lt;br&gt;    &lt;em&gt;具体设置：&lt;/em&gt; 文件 – 设置 – 扩展 –  “WhiteSpace”的 设置 – 把 “remove trailing whitesace” 选项去掉。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id=&quot;2-2-标题&quot;&gt;&lt;a href=&quot;#2-2-标题&quot; class=&quot;headerlink&quot; title=&quot;2.2 标题&quot;&gt;&lt;/a&gt;2.2 标题&lt;/h4&gt;&lt;p&gt;有两种方式显标题  &lt;/p&gt;
+&lt;table&gt;&lt;br&gt;  &lt;tr&gt;&lt;br&gt;    &lt;td&gt;类Setext&lt;/td&gt;&lt;br&gt;    &lt;td&gt;类atx&lt;/td&gt;&lt;br&gt;  &lt;/tr&gt;&lt;br&gt;  &lt;tr&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;      &lt;code&gt;&lt;br&gt;        这个最高阶标题 &lt;br&gt;&lt;br&gt;        ====== &lt;br&gt;&lt;br&gt;        &lt;br&gt;&lt;br&gt;        第二阶标题&lt;br&gt;&lt;br&gt;        —–&lt;br&gt;&lt;br&gt;      &lt;/code&gt;&lt;br&gt;    &lt;/td&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;      &lt;code&gt;#这是1阶标题#&lt;br&gt;&lt;br&gt;            ##这是2阶标题#&lt;br&gt;&lt;br&gt;            ###这是3阶标题#&lt;br&gt;&lt;br&gt;            ####这是4阶标题#&lt;br&gt;&lt;br&gt;            #####这是5阶标题#&lt;br&gt;&lt;br&gt;            ######这是6阶标题#&lt;br&gt;&lt;br&gt;      &lt;/code&gt;&lt;br&gt;    &lt;/td&gt;&lt;br&gt;  &lt;/tr&gt;&lt;br&gt;&lt;/table&gt;
+
+&lt;h4 id=&quot;2-3-区块引用-Blockquotes&quot;&gt;&lt;a href=&quot;#2-3-区块引用-Blockquotes&quot; class=&quot;headerlink&quot; title=&quot;2.3.区块引用 Blockquotes&quot;&gt;&lt;/a&gt;2.3.区块引用 Blockquotes&lt;/h4&gt;&lt;p&gt;每行文字前使用&lt;code&gt;&amp;gt;&lt;/code&gt; 即可形成引用效果。  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+&amp;gt;这是引用
+&amp;gt;这是引用
+&amp;gt;这是引用
+&amp;gt;这是引用
+&lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;引用中也可以使用MarkDown语法。  &lt;/p&gt;
+&lt;p&gt;引用中可以 继续引用；即增加引用阶层。  &lt;/p&gt;
+&lt;h4 id=&quot;2-4-列表&quot;&gt;&lt;a href=&quot;#2-4-列表&quot; class=&quot;headerlink&quot; title=&quot;2.4.列表&quot;&gt;&lt;/a&gt;2.4.列表&lt;/h4&gt;&lt;h6 id=&quot;2-4-1&quot;&gt;&lt;a href=&quot;#2-4-1&quot; class=&quot;headerlink&quot; title=&quot;2.4.1&quot;&gt;&lt;/a&gt;2.4.1&lt;/h6&gt;&lt;table&gt;&lt;br&gt;  &lt;tr&gt;&lt;br&gt;    &lt;td colspan=&quot;3&quot;&gt;无序列表&lt;/td&gt;&lt;br&gt;    &lt;td&gt;有序列表&lt;/td&gt;&lt;br&gt;  &lt;/tr&gt;&lt;br&gt;  &lt;tr&gt;&lt;br&gt;    &lt;div&gt;&lt;br&gt;      &lt;td&gt;&lt;br&gt;           +  red&lt;br&gt;           +  green&lt;br&gt;           +  blue&lt;br&gt;      &lt;/td&gt;&lt;br&gt;      &lt;td&gt;&lt;br&gt;         *   red&lt;br&gt;         *   green&lt;br&gt;         *   blue&lt;br&gt;      &lt;/td&gt;&lt;br&gt;      &lt;td&gt;&lt;br&gt;           -  red&lt;br&gt;           -  green&lt;br&gt;           -  blue&lt;br&gt;      &lt;/td&gt;&lt;br&gt;&lt;br&gt;    &lt;/div&gt;&lt;br&gt;    &lt;td&gt;&lt;br&gt;      1.  red&lt;br&gt;      2.  green&lt;br&gt;      3.  blue&lt;br&gt;    &lt;/td&gt;&lt;br&gt;  &lt;/tr&gt;&lt;br&gt;&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;1）这里 &lt;code&gt;**&lt;/code&gt;所描述的无序列表，和斜体格式 混淆了，等之后我在看看怎么解决。  &lt;/p&gt;
+&lt;p&gt;2）有序列表中数字标示不会影响生成的HTML的标记 &lt;code&gt;&amp;lt;li&amp;gt;&lt;/code&gt;  。  &lt;/p&gt;
+&lt;p&gt;Ps: 使用*的时候 需要在*的前面加上\&lt;/p&gt;
+&lt;h6 id=&quot;2-4-2&quot;&gt;&lt;a href=&quot;#2-4-2&quot; class=&quot;headerlink&quot; title=&quot;2.4.2&quot;&gt;&lt;/a&gt;2.4.2&lt;/h6&gt;&lt;p&gt;列表项目用空行分开，转换后项目内容会被&amp;lt;p&amp;gt;标签包起来，如：  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;*   red  
+*   green  
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;转换后是：  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;ul&amp;gt;  
+&amp;lt;li&amp;gt;red&amp;lt;/li&amp;gt;  
+&amp;lt;li&amp;gt;green&amp;lt;/li&amp;gt;  
+&amp;lt;/ul&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;而如果列表项之间有了空行：  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;*   red  
+
+*  green  
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;转换后是：  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;ul&amp;gt;  
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;red&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;  
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;green&amp;lt;/p&amp;gt; &amp;lt;/li&amp;gt;  
+&amp;lt;/ul&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;h6 id=&quot;2-4-3&quot;&gt;&lt;a href=&quot;#2-4-3&quot; class=&quot;headerlink&quot; title=&quot;2.4.3&quot;&gt;&lt;/a&gt;2.4.3&lt;/h6&gt;&lt;p&gt;在MarkDown中建立代码区块，可以通过缩进4个空格或者1个制表符就可以，如：  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;这是普通段落    
+
+&amp;amp;ensp;&amp;amp;ensp;&amp;amp;ensp;&amp;amp;ensp;这是代码区块
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;PS：段落之间需要一个空行&lt;/p&gt;
+&lt;p&gt;会被转换成：  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;Here is an example of AppleScript:&amp;lt;/p&amp;gt;
+&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;tell application &amp;quot;Foo&amp;quot;
+beep
+end tell
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;代码区块会持续到没有缩进的那一行；且Markdown会自动将其中的 &amp;lt;、&amp;amp;、\ 之类转换为html样式。  &lt;/p&gt;
+&lt;h4 id=&quot;2-5-分隔线&quot;&gt;&lt;a href=&quot;#2-5-分隔线&quot; class=&quot;headerlink&quot; title=&quot;2.5. 分隔线&quot;&gt;&lt;/a&gt;2.5. 分隔线&lt;/h4&gt;&lt;p&gt;你可以使用 *、-、_和空格（三个及以上）  来建立分隔线，行内不允许有其他内容：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+***
+___
+- - -
+* * *
+_ _ _
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;3-区段元素&quot;&gt;&lt;a href=&quot;#3-区段元素&quot; class=&quot;headerlink&quot; title=&quot;3. 区段元素&quot;&gt;&lt;/a&gt;3. 区段元素&lt;/h2&gt;&lt;h4 id=&quot;3-1-链接&quot;&gt;&lt;a href=&quot;#3-1-链接&quot; class=&quot;headerlink&quot; title=&quot;3.1. 链接&quot;&gt;&lt;/a&gt;3.1. 链接&lt;/h4&gt;&lt;p&gt;Markdown支持两种链接模式：行内式，参考式&lt;br&gt;链接均是使用[]来标记&lt;/p&gt;
+&lt;h6 id=&quot;3-1-1-行内式&quot;&gt;&lt;a href=&quot;#3-1-1-行内式&quot; class=&quot;headerlink&quot; title=&quot;3.1.1. 行内式&quot;&gt;&lt;/a&gt;3.1.1. 行内式&lt;/h6&gt;&lt;p&gt;直接在要添加连接的文字后面增加就可以&lt;/p&gt;
+&lt;p&gt;这是个连接&lt;a href=&quot;http://www.baidu.com/&quot; title=&quot;这个显示文字&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度&lt;/a&gt;（这不是软广）  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;这是个连接[百度](http://www.baidu.com/ &amp;quot;这个显示文字&amp;quot;)（这不是软广）  
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;也可以使用相对路径，访问同一主机的资源，如：  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;查看 [主机文件](/路径/文件) 就这样子
+&lt;/code&gt;&lt;/pre&gt;&lt;h6 id=&quot;3-1-2-参考式&quot;&gt;&lt;a href=&quot;#3-1-2-参考式&quot; class=&quot;headerlink&quot; title=&quot;3.1.2. 参考式&quot;&gt;&lt;/a&gt;3.1.2. 参考式&lt;/h6&gt;&lt;p&gt;要添加连接的文字后面加上 &lt;a href=&quot;http://sjindong.github.io/&quot; title=&quot;任意位置&quot;&gt;id&lt;/a&gt; 标签，然后可以在文中任意一处对 &lt;a href=&quot;http://sjindong.github.io/&quot; title=&quot;任意位置&quot;&gt;id&lt;/a&gt;定义。&lt;/p&gt;
+&lt;p&gt;这又是一个链接 &lt;a href=&quot;http://sjindong.github.io/&quot; title=&quot;任意位置&quot;&gt;我的博客&lt;/a&gt;.  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;这又是一个链接 [我的博客][id].
+[id]: http://sjindong.github.io/ &amp;quot;任意位置&amp;quot;  
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;1）链接内容定义的形式为：  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;方括号（前面可以选择性地加上至多三个空格来缩进），里面输入链接文字&lt;/li&gt;
+&lt;li&gt;接着一个冒号&lt;/li&gt;
+&lt;li&gt;接着一个以上的空格或制表符&lt;/li&gt;
+&lt;li&gt;接着链接的网址&lt;/li&gt;
+&lt;li&gt;选择性地接着 title 内容，可以用单引号、双引号或是括弧包着(单引号使用可能略有问题)&lt;br&gt;title 属性可以放到链接的下一行显示，方便网址过长时的阅读  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2）链接标签 识别：数字、字母（不区分大小写）、空白、标点符号&lt;/p&gt;
+&lt;p&gt;3）隐式链接（[]）可以省略指定链接标签&lt;br&gt;&lt;a href=&quot;http://sjindong.github.io/&quot; title=&quot;隐式链接&quot;&gt;博客- 隐式链接&lt;/a&gt;  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[博客- 隐式链接][]  
+[博客- 隐式链接]: http://sjindong.github.io/ &amp;quot;隐式链接&amp;quot;  
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&quot;3-2-强调&quot;&gt;&lt;a href=&quot;#3-2-强调&quot; class=&quot;headerlink&quot; title=&quot;3.2. 强调&quot;&gt;&lt;/a&gt;3.2. 强调&lt;/h4&gt;&lt;p&gt;Markdown使用 * 和 _作为标记强调的符号，使用单个*和_ 包围的字词会被转成&amp;lt;em&amp;gt; 标签； 使用两个*和_ 包围的字词会被转成&amp;lt;strong&amp;gt;标签，如：&lt;br&gt;&lt;em&gt;em&lt;/em&gt;    &lt;strong&gt;em&lt;/strong&gt;&lt;br&gt; &lt;em&gt;em&lt;/em&gt;   &lt;strong&gt;em&lt;/strong&gt;&lt;br&gt; &lt;strong&gt;&lt;em&gt; sdkfj &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; *em*    **em**  
+_em_   __em__  
+**_ sdkfj _**  
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;1)强调可以直接插在文字中间；&lt;br&gt;2）如果  *  和 _ 两边都有空白，会被当成普通符号（仅限一行内只有一个的情况）；&lt;br&gt;3）如果要直接插在文字中，和其他混合使用，请使用 反斜杠’\‘  &lt;/p&gt;
+&lt;h4 id=&quot;3-3-代码&quot;&gt;&lt;a href=&quot;#3-3-代码&quot; class=&quot;headerlink&quot; title=&quot;3.3. 代码&quot;&gt;&lt;/a&gt;3.3. 代码&lt;/h4&gt;&lt;h6 id=&quot;3-3-1-标记一小段行内代码&quot;&gt;&lt;a href=&quot;#3-3-1-标记一小段行内代码&quot; class=&quot;headerlink&quot; title=&quot;3.3.1.标记一小段行内代码&quot;&gt;&lt;/a&gt;3.3.1.标记一小段行内代码&lt;/h6&gt;&lt;p&gt;可以使用反引号包围起来，如：&lt;br&gt;使用&lt;code&gt;activity&lt;/code&gt;  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;使用`activity`
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;如果要在代码段内使用反引号`，则可以通过多个反引号控制代码的范围，如：&lt;br&gt;使用&lt;code&gt;`activity`function&lt;/code&gt;  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;使用``` `activity`function```  
+&lt;/code&gt;&lt;/pre&gt;&lt;h6 id=&quot;3-3-2-代码区段内&quot;&gt;&lt;a href=&quot;#3-3-2-代码区段内&quot; class=&quot;headerlink&quot; title=&quot;3.3.2.代码区段内&quot;&gt;&lt;/a&gt;3.3.2.代码区段内&lt;/h6&gt;&lt;p&gt;&amp;amp; 和 方括号[]都会被自动地转成 HTML 实体，这使得插入 HTML 原始码变得很容易，如：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;amp;lt; &amp;amp;amp; []&amp;lt;em&amp;gt;seikg&amp;lt;/em&amp;gt;] []
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&amp;lt; &amp;amp; &lt;em&gt;seikg&lt;/em&gt; []   &lt;/p&gt;
+&lt;h4 id=&quot;3-4-图片&quot;&gt;&lt;a href=&quot;#3-4-图片&quot; class=&quot;headerlink&quot; title=&quot;3.4. 图片&quot;&gt;&lt;/a&gt;3.4. 图片&lt;/h4&gt;&lt;p&gt;图片的插和 链接的使用 是类似的&lt;/p&gt;
+&lt;h6 id=&quot;3-4-1-行内式&quot;&gt;&lt;a href=&quot;#3-4-1-行内式&quot; class=&quot;headerlink&quot; title=&quot;3.4.1. 行内式&quot;&gt;&lt;/a&gt;3.4.1. 行内式&lt;/h6&gt;&lt;p&gt;&lt;img src=&quot;/img/myLogo.jpg&quot; alt=&quot;图片的替代文字&quot; title=&quot;图片说明&quot;&gt;&lt;br&gt;&lt;img src=&quot;/com/a.jpg&quot; alt=&quot;图片的替代文字&quot; title=&quot;文字说明&quot;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![图片的替代文字](/com/a.jpg &amp;quot;文字说明&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;详细叙述如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一个惊叹号 !&lt;/li&gt;
+&lt;li&gt;接着一个方括号，里面放上图片的替代文字&lt;/li&gt;
+&lt;li&gt;接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上 选择性的 ‘title’ 文字。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6 id=&quot;3-4-2-参考式&quot;&gt;&lt;a href=&quot;#3-4-2-参考式&quot; class=&quot;headerlink&quot; title=&quot;3.4.2. 参考式&quot;&gt;&lt;/a&gt;3.4.2. 参考式&lt;/h6&gt;&lt;pre&gt;&lt;code&gt;![图片的替代文字][id]
+[id]: 链接/地址 &amp;quot;说明文字&amp;quot;  
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt; &lt;strong&gt;PS:&lt;/strong&gt; Markdown暂时还不能指定图片宽高，只能通过&lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt;标签自己定义&lt;/p&gt;
+&lt;h2 id=&quot;4-其他&quot;&gt;&lt;a href=&quot;#4-其他&quot; class=&quot;headerlink&quot; title=&quot;4. 其他&quot;&gt;&lt;/a&gt;4. 其他&lt;/h2&gt;&lt;h4 id=&quot;4-1-自动链接&quot;&gt;&lt;a href=&quot;#4-1-自动链接&quot; class=&quot;headerlink&quot; title=&quot;4.1. 自动链接&quot;&gt;&lt;/a&gt;4.1. 自动链接&lt;/h4&gt;&lt;p&gt;1）支持以比较简短的自动链接形式来处理网址和电子邮件信箱，只要是用方括号包起来， Markdown 就会自动把它转成链接;&lt;/p&gt;
+&lt;p&gt;2）邮址的自动链接也很类似，只是 Markdown 会先做一个编码转换的过程，把文字字符转成 16 进位码的 HTML 实体，这样的格式可以糊弄一些简单的不好的邮址收集机器人&lt;/p&gt;
+&lt;h4 id=&quot;4-2-反斜杠&quot;&gt;&lt;a href=&quot;#4-2-反斜杠&quot; class=&quot;headerlink&quot; title=&quot;4.2. 反斜杠 \&quot;&gt;&lt;/a&gt;4.2. 反斜杠 \&lt;/h4&gt;&lt;p&gt;Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;\   反斜线
+`   反引号
+*   星号
+_   底线
+{}  花括号
+[]  方括号
+()  括弧
+#   井字号
++   加号
+-   减号
+.   英文句点
+!   惊叹号
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;个人总结&quot;&gt;&lt;a href=&quot;#个人总结&quot; class=&quot;headerlink&quot; title=&quot;个人总结&quot;&gt;&lt;/a&gt;个人总结&lt;/h2&gt;&lt;p&gt;  先上干货，嗯，工具始终是为了便捷，内容才是重点，&lt;br&gt;  关于这个文章，网上有很多可参照的，但自己写一遍才映像深刻，&lt;br&gt;  我这边是断断续续的在学在写，所以文章源码有些地方还是可以优化改进的，&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;吐槽&lt;/strong&gt;&lt;br&gt;  唉，终于搞定了，说多不多，说少不少，看完了，以后估计用的也就那么常用的几样； 这个其实对大多数人来说，没有太大帮助的，还不如使用其他工具进行文字编辑。  &lt;/p&gt;
+&lt;p&gt;  那我干嘛学这个呢，想了想，一个字，懒；两个字，很懒… 嗯，我懒得碰鼠标，这是 使用这个方法写blog给我带来的最大的帮助，^_^2333.  &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;写完发现些好东西，先安利下，给那些没心思看Blog的&lt;br&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; title=&quot;Wiki Markdown#Example&quot; target=&quot;_blank&quot; rel=
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://sjindong.github.io/2016/03/28/hello-world/"/>
+    <id>http://sjindong.github.io/2016/03/28/hello-world/</id>
+    <published>2016-03-28T15:01:28.090Z</published>
+    <updated>2016-03-28T15:01:28.090Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;p&gt;&lt;code&gt;$ hexo new “My New Post”&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;p&gt;&lt;code&gt;$ hexo server&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;p&gt;&lt;code&gt;$ hexo generate&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;p&gt;&lt;code&gt;$ hexo deploy&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
