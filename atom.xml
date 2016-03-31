@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sjindong.github.io/"/>
-  <updated>2016-03-30T14:12:16.379Z</updated>
+  <updated>2016-03-31T06:21:32.702Z</updated>
   <id>http://sjindong.github.io/</id>
   
   <author>
@@ -17,15 +17,16 @@
   
   <entry>
     <title>个人网址收藏</title>
-    <link href="http://sjindong.github.io/2016/03/30/private_collection/"/>
-    <id>http://sjindong.github.io/2016/03/30/private_collection/</id>
-    <published>2016-03-30T14:12:29.526Z</published>
-    <updated>2016-03-30T14:12:16.379Z</updated>
+    <link href="http://sjindong.github.io/2016/03/31/private_collection/"/>
+    <id>http://sjindong.github.io/2016/03/31/private_collection/</id>
+    <published>2016-03-31T06:21:32.702Z</published>
+    <updated>2016-03-31T06:21:32.702Z</updated>
     
     <content type="html">&lt;h3 id=&quot;实用工具&quot;&gt;&lt;a href=&quot;#实用工具&quot; class=&quot;headerlink&quot; title=&quot;实用工具&quot;&gt;&lt;/a&gt;实用工具&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;http://tool.lu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线工具—有时间戳转换工具&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&quot;功能网址&quot;&gt;&lt;a href=&quot;#功能网址&quot; class=&quot;headerlink&quot; title=&quot;功能网址&quot;&gt;&lt;/a&gt;功能网址&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://sjindong.duoshuo.com/admin/tools/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;多说&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/739bf1305e66&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;使用Hexo搭建博客（四），博客的部件和插件&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/justflyhigh/article/details/7611648&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RSS订阅 让你的博客集成RSS功能&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/fly_binbin/archive/2010/12/10/1902265.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android权限列表permission说明 （一）&lt;/a&gt;&lt;/li&gt;
@@ -41,7 +42,7 @@
 &lt;/ol&gt;
 &lt;h3 id=&quot;原理讲解&quot;&gt;&lt;a href=&quot;#原理讲解&quot; class=&quot;headerlink&quot; title=&quot;原理讲解&quot;&gt;&lt;/a&gt;原理讲解&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;http://brainku.github.io/2014/10/01/reading-android-kaifa-jingyao/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;小探Android应用层原理–《Android开发精要》&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.jb51.net/article/51052.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;六款值得推荐的android（安卓）开源框架简介&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jb51.net/article/51052.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;六款值得推荐的android（安卓）开源框架简介&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/xiazdong/article/details/7749261&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android入门：多个Activity之间切换原理介绍&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/coding_glacier/article/details/8230159&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android中UID机制和共享进程&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.open-open.com/lib/view/open1328069889514.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Git详解之三 Git分支&lt;/a&gt;&lt;/li&gt;
