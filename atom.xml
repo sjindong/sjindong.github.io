@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sjindong.github.io/"/>
-  <updated>2016-03-31T06:21:32.702Z</updated>
+  <updated>2016-04-01T11:13:46.910Z</updated>
   <id>http://sjindong.github.io/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>个人网址收藏</title>
-    <link href="http://sjindong.github.io/2016/03/31/private_collection/"/>
-    <id>http://sjindong.github.io/2016/03/31/private_collection/</id>
-    <published>2016-03-31T06:21:32.702Z</published>
-    <updated>2016-03-31T06:21:32.702Z</updated>
+    <link href="http://sjindong.github.io/2016/04/01/private_collection/"/>
+    <id>http://sjindong.github.io/2016/04/01/private_collection/</id>
+    <published>2016-04-01T11:14:40.487Z</published>
+    <updated>2016-04-01T11:13:46.910Z</updated>
     
     <content type="html">&lt;h3 id=&quot;实用工具&quot;&gt;&lt;a href=&quot;#实用工具&quot; class=&quot;headerlink&quot; title=&quot;实用工具&quot;&gt;&lt;/a&gt;实用工具&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;http://tool.lu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;在线工具—有时间戳转换工具&lt;/a&gt;&lt;/li&gt;
@@ -51,6 +51,18 @@
 &lt;h3 id=&quot;编辑工具&quot;&gt;&lt;a href=&quot;#编辑工具&quot; class=&quot;headerlink&quot; title=&quot;编辑工具&quot;&gt;&lt;/a&gt;编辑工具&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.williamlong.info/archives/4319.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;好用的Markdown编辑器一览&lt;/a&gt;   &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://wiki.jikexueyuan.com/project/atom/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ATOM使用教程–极客网&lt;/a&gt;    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;编程挑战&quot;&gt;&lt;a href=&quot;#编程挑战&quot; class=&quot;headerlink&quot; title=&quot;编程挑战&quot;&gt;&lt;/a&gt;编程挑战&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://projecteuler.net/archives&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Project Euler&lt;/a&gt;是一个具有挑战性的不仅仅需要具备数学能力的“数学/计算机编程”问题集合。数学方面的知识可以帮助你获得优雅而高效的解决方案，与此同时，计算机应用和编程技巧也不可或缺。     &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.pythonchallenge.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Python Challenge&lt;/a&gt; 专门针对学习python语言的一系列程序设计挑战。    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rubyquiz.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ruby Quiz&lt;/a&gt;    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://uva.onlinejudge.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;UVa Online Judege&lt;/a&gt;    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.spoj.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sphere Online Judge&lt;/a&gt;    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;C Puzzles&lt;/a&gt;关于c的常见陷阱和常犯错误    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;Facebook Puzzles&lt;/a&gt;    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;Google Code Jam&lt;/a&gt;定期的编程比赛    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;Microsoft Interview Questions&lt;/a&gt;    &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;wu:riddles&lt;/a&gt;数百个具有挑战的逻辑谜题    &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&quot;资源&quot;&gt;&lt;a href=&quot;#资源&quot; class=&quot;headerlink&quot; title=&quot;资源&quot;&gt;&lt;/a&gt;资源&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/nswbmw/N-blog/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;学习资源Node.js&lt;/a&gt;  &lt;/li&gt;
